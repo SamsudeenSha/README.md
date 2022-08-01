@@ -11,7 +11,7 @@
 <br />
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
 <a href="https://whatsapp.com/+91-9360608380" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/whatsapp-logo-light-green-png-0.png" alt=sojasheik" height="30" width="40" /></a>
 <a href="https://twitter.com/sheik_soja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Annamalai345" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/Samsudeen Sha/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="annamalai923" height="30" width="40" /></a>
@@ -27,7 +27,6 @@
 
 <h3>Development tools and frameworks:</h3>
 <p>
-<img src="tool/html.gif" alt="html5" width="50" height="60"/> 
 <img src="https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/01/html5-css3.jpg?resize=498%2C249&ssl=1" alt="css3" width="100" height="60"/>
 <img src="https://www.drupal.org/files/project-images/bootstrap-stack.png" alt="bootstrap" width="50" height="60"/> 
 <img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" alt="angular" height="60" width="50"/>
